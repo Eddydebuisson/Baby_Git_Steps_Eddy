@@ -1,6 +1,6 @@
 monPremierCommit = 1
 maPremiereBranche = 0
-maPremiereFusion = 1
+maPremiereFusion = 5
 maPremiereErreur = 0
 
 jeVaisMalNommerMonProchaonCommit = 1
